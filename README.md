@@ -54,5 +54,5 @@ Combined forecasts suggest a gradual recovery in retail sales with strong season
 - ARIMA / Box-Jenkins
 - Forecast Evaluation
 
-## Authors
+## Author
 Inès Tapoayi
